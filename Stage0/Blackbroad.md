@@ -14,6 +14,8 @@ placed in front of the winning players paddle.
 ### Scenario: When ball hits the Wall
 
 Given the blackboard is of fixed dimension.
-  When the ball hits the wall of Blackbroad.
+
+When: the ball hits the wall of Blackbroad.
+
 Then depending on the velocity of the ball,
 The ball will be reflected from the wall.
