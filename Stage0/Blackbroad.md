@@ -1,9 +1,5 @@
 # Blackboard
 
-## Feature
-
-This module provides information related to Blackbroad.
-
 ## Acceptance Criteria
 
 ### Scenario: When a player scores a point
@@ -19,5 +15,5 @@ placed in front of the winning players paddle.
 
 Given the blackboard is of fixed dimension.
 When the ball hits the wall of Blackbroad.
-Then depending on the velocity of the ball.
+Then depending on the velocity of the ball,
 The ball will be reflected from the wall.
