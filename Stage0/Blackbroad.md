@@ -2,7 +2,7 @@
 
 ## Feature
 
-This module provides information related to Blackbroad.
+Information related to Blackbroad.
 
 ## Acceptance Criteria
 
