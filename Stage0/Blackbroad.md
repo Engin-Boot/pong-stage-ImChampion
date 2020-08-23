@@ -1,4 +1,5 @@
-# Blackboard 
+# Blackboard
+
 ## Feature
 
 This module provides information related to Blackbroad.
@@ -9,8 +10,8 @@ This module provides information related to Blackbroad.
 
 Given the blackboard is of fixed dimension.
 When a player scores a point.
-Then this module puts the paddle of both 
-player at the center of blackboard at 
+Then this module puts the paddle of both
+player at the center of blackboard at
 their respective end and the ball will be
 placed in front of the winning players paddle.
 
