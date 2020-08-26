@@ -3,16 +3,16 @@
 ## Feature
 
 In this module the player will be able to
-choose the Blackbroad Color, difficulty level.
+choose the Blackboard Color, difficulty level.
 
 ## Acceptance Criteria
 
-### Scenario: Player chooses to change the BlackBroad Color
+### Scenario: Player chooses to change the BlackBoard Color
 
 Given the player is playing Pong Game
 and on Setting Tab.
 
-When the player choose to change the BlackBroad Color
+When the player choose to change the BlackBoard Color
 
 Then the player is provided with 3 color choices which are
 
