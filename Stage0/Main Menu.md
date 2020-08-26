@@ -15,25 +15,25 @@ The game screen will show 4 options:
 Given the player is on Pong Game
 and on Main Menu.
 When the player selects my My Profile option.
-Then the player would be transfered to Profile module.
+Then the player transfered to Profile module.
 
 ### Scenario: Start Game is Selected
 
 Given the player is on Pong Game
 and on Main Menu.
 When the player selects Start Game option.
-Then the player will be transfered to Start Game module.
+Then the player transfered to Start Game module.
 
 ### Scenario: Setting is Selected
 
 Given the player is on Pong Game
 and on Main Menu.
 When the player selects Setting option.
-Then the player will be transfered to Setting module.
+Then the player transfered to Setting module.
 
 ### Scenario: Exit is Selected
 
 Given the player is on Pong Game
 and on Main Menu.
 When the player selects Exit option.
-Then the player will be moved out of the game.
+Then the player moved out of the game.
