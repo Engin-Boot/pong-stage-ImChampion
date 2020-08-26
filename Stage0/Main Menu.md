@@ -3,10 +3,10 @@
 ## Feature
 
 The game screen will show 4 options:
-- My Profile
-- Start Game
-- Setting
-- Exit
+### My Profile
+### Start Game
+### Setting
+### Exit
 
 ## Acceptance Criteria
 
