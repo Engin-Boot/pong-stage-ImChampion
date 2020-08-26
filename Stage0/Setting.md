@@ -15,6 +15,7 @@ and on Setting Tab.
 When the player choose to change the BlackBroad Color
 
 Then the player is provided with 3 color choices which are
+
 - Black (Default choice)
 - Gray
 - Blue.
@@ -27,6 +28,7 @@ and on Setting Tab.
 When the player choose to change the difficulty level
 
 Then the player is provided with 3 color choices which are
+
 - Easy (Default choice)
 - Medium
 - Difficult.
