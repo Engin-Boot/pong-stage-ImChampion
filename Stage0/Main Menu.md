@@ -3,7 +3,6 @@
 ## Feature
 
 The game screen will show 4 options:
-
 - My Profile
 - Start Game
 - Setting
