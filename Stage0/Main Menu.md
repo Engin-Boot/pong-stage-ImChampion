@@ -41,4 +41,5 @@ and on Main Menu.
 
 When the player selects Exit option.
 
-Then the player moved out of the game.
+Then take the player out of the game
+and close the game window.
