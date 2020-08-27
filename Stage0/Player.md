@@ -1,11 +1,11 @@
-# Player 
+# Player
 
-## Feature 
+## Feature
 
 This module provides the player to hit the ball,
 move paddles.
 
-Paddle movement keys for Players are 
+Paddle movement keys for Players are
 "Up Arrow","Down Arrow" for Player 1
 and "s","d" for Player 2.
 
@@ -18,7 +18,7 @@ will be on right side of the Pong Board.
 
 ## Acceptance Criteria
 
-### Scenario: Player starts new game 
+### Scenario: Player starts new game
 
 Given the player has a device that supports pong game on it
 and the player clicks "Start Game"
