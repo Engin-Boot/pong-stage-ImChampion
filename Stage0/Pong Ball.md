@@ -39,6 +39,6 @@ the "Declare Winner" module.
 
 Given the player has launched the game and playing it
 
-When the ball hits the top or bottomw wall.
+When the ball hits the top or bottom wall.
 Then depending on the velocity of the ball,
 The ball will be reflected from the wall.
