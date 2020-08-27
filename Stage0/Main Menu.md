@@ -23,7 +23,7 @@ and on Main Menu.
 
 When the player selects Start Game option.
 
-Then it redirects player to Start Game module.
+Then it redirects player to Player module.
 
 ### Scenario: Setting is Selected
 
