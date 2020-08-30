@@ -2,12 +2,25 @@
 
 ## Startup Sequence
 
--describe-how-your-modules-interact-to-start
+When the player clicks on "Pong Game" application
+then the game will be launched.
+The pong game opens and shows the 'Main Menu' module.
+Main Menu module provides player with 4 options
+
+- My Profile
+
+- Start Game
+
+- Settings
+
+- Exit
 
 ## Movement Initiation
 
--describe-how-modules-interact-to-make-the-ball-move
+When player starts the game then ball is fired towards
+player 1(will be on left side of Pong board) in random direction.
 
 ## One score
 
--describe-how-the-modules-interact-to-record-scores
+When player clicks on Start Game then the score counter is
+initialized to 0. And score of players are handled by Pong Ball module.
