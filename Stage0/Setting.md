@@ -35,5 +35,3 @@ When Pong Ball hits the paddle its speed increases by 10%.
 When Pong Ball hits the paddle its speed increases by 20%.
 - Difficult.
 When Pong Ball hits the paddle its speed increases by 30%.
-
-
