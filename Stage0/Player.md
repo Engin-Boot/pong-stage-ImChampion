@@ -17,7 +17,7 @@ will be on right side of the Pong Board.
 - Pong Ball is placed at the Center of Pong Board.
 
 - Player 2 Paddle movement keys functional only when
-2 player option choosen.
+'vs player' option chosen.
 
 ## Acceptance Criteria
 
