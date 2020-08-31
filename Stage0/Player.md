@@ -21,7 +21,7 @@ will be on right side of the Pong Board.
 
 ## Acceptance Criteria
 
-### Scenario: Choose Opponent 
+### Scenario: Choose Opponent
 
 Given the player has a device that supports pong game on it
 
