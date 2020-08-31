@@ -16,16 +16,42 @@ will be on right side of the Pong Board.
 
 - Pong Ball is placed at the Center of Pong Board.
 
+- Player 2 Paddle movement keys functional only when
+2 player option choosen.
+
 ## Acceptance Criteria
 
-### Scenario: Player starts new game
+### Scenario: Choose Opponent 
 
 Given the player has a device that supports pong game on it
-and the player clicks "Start Game"
 
-When the player clicks on "Begin" button
+When the player clicks on Start Game option
 
-Then the ball(which is at center) is fired
+Then the player is provided with 2 option:
+
+- vs Computer
+- vs Player(2 Player game).
+
+### Scenario: Player vs Computer
+
+Given the player has a device that supports pong game on it
+and need to choose opponent.
+
+When the player clicks on "vs Computer" option
+
+Then the game begins and the ball is fired
+towards player 1 in random direction.
+
+### Scenario: Player vs Player
+
+Given the player has a device that supports pong game on it
+and need to choose opponent.
+
+When the player clicks on "vs Player" option
+
+Then a text box pops up for the player 2 to enter his name.
+Once the 2nd player enters name and hits 'Enter Game' option
+then the game begins and the ball is fired
 towards player 1 in random direction.
 
 ### Scenario: Player hits the Ball
@@ -34,8 +60,8 @@ Given the player has launched the game and playing it
 
 When the player hits the ball with paddle
 
-Then the ball reflects from the paddle and
-its speed increases by 15%.
+Then the ball reflects from the paddle its speed
+increases according to difficulty level selected.
 
 ### Scenario: When player 1 presses "Up Arrow" key
 
@@ -55,7 +81,8 @@ Then the paddle moves in downward direction with constant speed.
 
 ### Scenario: When player 2 presses "s" key
 
-Given the player has launched the game and playing it
+Given the player has launched the game and has selected
+'vs Player' option
 
 When the player 2 presses "s" key
 
@@ -63,7 +90,8 @@ Then the paddle moves in upward direction with constant speed.
 
 ### Scenario: When player 2 presses "d" key
 
-Given the player has launched the game and playing it
+Given the player has launched the game and has selected
+'vs Player' option
 
 When the player 2 presses "d" key
 
